@@ -1,0 +1,32 @@
+body{
+    background-color: gray;
+    width: 100%;
+}
+.screen{
+ margin:0 auto;
+ margin-top: 2%;
+ background-color: black;
+ width: 370px;
+ height:600px;
+ color: #ffffff;
+}
+
+
+.screen .header-nav {
+    background-color: #272727;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 10px;10px;10px;10px;
+}
+.screen.header-nav.header-nav__col-2 i{
+    margin-left: 3px ;
+}
+.screen .header{
+    background-color: #161616;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding:15px 20px;
+    font-size: 20px;
+}
